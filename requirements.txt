@@ -9,4 +9,4 @@ pyrogram
 requests
 tgcrypto
 #youtube-dl
-git+https://github.com/prgofficial/YouTubeDL
+git+https://github.com/yt-dlp/yt-dlp
